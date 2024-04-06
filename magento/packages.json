@@ -29,11 +29,6 @@
     "description": "Apollo-compatible automatic persisted queries, to improve GraphQL network performance.",
     "packagist_source": "danslo/magento2-module-automatic-persisted-queries"
   },
-  "danslo/magento2-module-velvet": {
-    "name": "Magento 2 Velvet",
-    "description": "The metapackage that bundles all the different GraphQL modules required for Velvet.",
-    "packagist_source": "danslo/magento2-module-velvet"
-  },
   "discorgento/module-migrations": {
     "name": "Discorgento Migrations",
     "description": "A dev-friendly approach to keep track of database changes in Magento 2.",
