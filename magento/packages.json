@@ -305,8 +305,8 @@
     "packagist_source": "jalogut/magento2-deployer-plus"
   },
   "jbrada/module-admin-document-product-links": {
-    "description": "A Magento package for testing.",
-    "name": "Magento Administration Product Links",
+    "description": "Module adds a navigation link between order, shipment, invoice and credit memo items and its related products.",
+    "name": "JBrada - Magento Administration Product Links",
     "packagist_source": "jbrada/module-admin-document-product-links"
   },
   "jetrails/magento2-cloudflare": {
