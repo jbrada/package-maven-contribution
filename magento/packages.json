@@ -179,6 +179,11 @@
     "name": "Magento 2 CloudFlare Cache Cleaner",
     "packagist_source": "enanobots/m2-cloudflare-cache-cleaner"
   },
+  "enanobots/m2-customer-timeout-popup": {
+    "description": "This module displays a popup to the customer indicating the number of seconds remaining until they are automatically logged out of the system.",
+    "name": "Magento 2 Customer Timeout Popup",
+    "packagist_source": "enanobots/m2-customer-timeout-popup"
+  },
   "enanobots/m2-datapatchcreator": {
     "description": "Allows us to create PHP Data Patch Files in Magento 2 Admin panel and export them to PHP files which we can add to our code repositories.",
     "name": "Magento 2 DataPatchCreator",
