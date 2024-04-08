@@ -479,6 +479,11 @@
     "name": "Magento 2 FREE SEO Suite",
     "packagist_source": "magepsycho/magento2-seosuite"
   },
+  "magepsycho/magento2-storepricing": {
+    "description": "Magento 2 Store View Pricing extension helps store owners to set up different product prices (cost, regular, special prices, etc.) per store view.",
+    "name": "Magento 2 Store View Pricing",
+    "packagist_source": "magepsycho/magento2-storepricing"
+  },
   "magequest/magento2-module-lite-youtube": {
     "description": "A Magento 2 module that adds performant YouTube embeds with no user experience impact.",
     "name": "MageQuest LiteYouTube",
