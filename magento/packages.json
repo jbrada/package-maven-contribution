@@ -2,47 +2,47 @@
   "akeneo/module-magento2-connector-community": {
     "description": "A module that allows you to export your catalog data and structure from Akeneo PIM Community Edition to Magento 2 through API calls.",
     "name": "Akeneo Connector for Magento 2",
-    "packagist_source": true
+    "packagist_source": "akeneo/module-magento2-connector-community"
   },
   "aligent/async-events": {
     "description": "This extension adds a framework for reliably handling asynchronous events with Magento and RabbitMQ.",
     "name": "Magento Asynchronous Events",
-    "packagist_source": true
+    "packagist_source": "aligent/async-events"
   },
   "ampersand/magento2-verbose-log-request": {
     "description": "An extension that allows to dynamically change the log level per request to DEBUG, enabling database, debug log, and verbose logging for a specifically defined request.",
     "name": "Magento 2 Verbose Log Request",
-    "packagist_source": true
+    "packagist_source": "ampersand/magento2-verbose-log-request"
   },
   "avstudnitz/disable-modules": {
     "description": "Adds a shell command info:dependencies:show-removable which exports all modules which have no dependencies",
     "name": "AvS_DisableModules",
-    "packagist_source": true
+    "packagist_source": "avstudnitz/disable-modules"
   },
   "avstudnitz/scopehint2": {
     "description": "This extension displays a hint when a configuration value is overwritten on a lower scope (website or store view).",
     "name": "AvS_ScopeHint for Magento 2",
-    "packagist_source": true
+    "packagist_source": "avstudnitz/scopehint2"
   },
   "baldwin/magento2-module-image-cleanup": {
     "description": "This extension gives options to delete unused product images from the disk to recover some space.",
     "name": "Image Cleanup module for Magento 2",
-    "packagist_source": true
+    "packagist_source": "baldwin/magento2-module-image-cleanup"
   },
   "baldwin/magento2-module-url-data-integrity-checker": {
     "description": "An extension to give store owners some insights into what URL-related problems they have in their products, categories and URL rewrites.",
     "name": "Url data integrity checker module for Magento 2",
-    "packagist_source": true
+    "packagist_source": "baldwin/magento2-module-url-data-integrity-checker"
   },
   "bitexpert/magento2-force-customer-login": {
     "description": "Magento 2 module that forces customer login to see website pages.",
     "name": "BitExpert_ForceCustomerLogin",
-    "packagist_source": true
+    "packagist_source": "bitexpert/magento2-force-customer-login"
   },
   "bkozlic/configurable-options": {
     "description": "This module provides functionality for preselecting configurable product options and updating attribute values from selected simple product.",
     "name": "Magento 2 Configurable Options",
-    "packagist_source": true
+    "packagist_source": "bkozlic/configurable-options"
   },
   "boldcommerce/magento2-ordercomments": {
     "description": "Add an order comments field in the default checkout for Magento 2.",
@@ -52,7 +52,7 @@
   "catgento/module-admin-activity": {
     "description": "Easily track every admin activity, record login attempts and admin page visits, track field changes and give the ability to revert them.",
     "name": "Magento 2 - Admin Activity by Catgento",
-    "packagist_source": true
+    "packagist_source": "catgento/module-admin-activity"
   },
   "creatuity/magento2-interceptors": {
     "description": "New interceptors approach for Magento 2",
@@ -82,7 +82,7 @@
   "develodesign/magento-2-module-categoryfaqextension": {
     "description": "Displays a FAQ accordian at the bottom of the Magento Category page from a linked FAQ category. Hyvä compatible.",
     "name": "Magento 2 Module for showing Landofcoder FAQs on the Hyvä category page",
-    "packagist_source": true
+    "packagist_source": "develodesign/magento-2-module-categoryfaqextension"
   },
   "discorgento/module-migrations": {
     "description": "A dev-friendly approach to keep track of database changes in Magento 2.",
@@ -97,7 +97,7 @@
   "ecomdev/magento2-product-data-preloader": {
     "description": "This extension provides an easy way to pre-load data for product collections like prices, stock data, and many more by using different types of load types.",
     "name": "Product Data Pre-Loader",
-    "packagist_source": true
+    "packagist_source": "ecomdev/magento2-product-data-preloader"
   },
   "element119/module-admin-redis-report": {
     "description": "A module that allows to visualise historic Redis health statistics in the Admin Panel.",
@@ -137,27 +137,27 @@
   "elgentos/module-eu-tax-rates": {
     "description": "A module that makes it possible to import a CSV file containing all the tax rates for all countries in the EU.",
     "name": "Elgentos' EU Tax Rates Importer",
-    "packagist_source": true
+    "packagist_source": "elgentos/module-eu-tax-rates"
   },
   "elgentos/module-lightspeed": {
     "description": "This module defines several sections where you can define common feedback from Google Lighthouse.",
     "name": "Lightspeed for Lighthouse optimizations",
-    "packagist_source": true
+    "packagist_source": "elgentos/module-lightspeed"
   },
   "elgentos/module-prismicio": {
     "description": "Extension to integrate headless CMS Prismic.io into Magento 2",
     "name": "elgentos Prismic.io",
-    "packagist_source": true
+    "packagist_source": "elgentos/module-prismicio"
   },
   "elgentos/regenerate-catalog-urls": {
     "description": "Set of console commands to regenerate catalog URLs.",
     "name": "Elgento’s Regenerate Catalog URLs",
-    "packagist_source": true
+    "packagist_source": "elgentos/regenerate-catalog-urls"
   },
   "elgentos/serversideanalytics2": {
     "description": "This extension aims to solve the problem of discrepancies between Magento revenue reports and the revenue reports in Google Analytics.",
     "name": "Serve Side Analytics for Magento 2",
-    "packagist_source": true
+    "packagist_source": "elgentos/serversideanalytics2"
   },
   "enanobots/admin-locale-switcher": {
     "description": "A simple module that allows you to switch locale in Magento 2 Admin Panel.",
@@ -202,17 +202,17 @@
   "ethanyehuda/magento2-cronjobmanager": {
     "description": "A Cron Job Manager Module by Ethan Yehuda",
     "name": "Magento 2 Cron Job Manager",
-    "packagist_source": true
+    "packagist_source": "ethanyehuda/magento2-cronjobmanager"
   },
   "experius/module-fakemydata": {
     "description": "Replaces existing customer data for fake/anonymous data.",
     "name": "Data Faker For Magento 2",
-    "packagist_source": true
+    "packagist_source": "experius/module-fakemydata"
   },
   "experius/module-wysiwygdownloads": {
     "description": "This extension makes it possible to upload different filetypes inside the WYSIWYG-editor.",
     "name": "Mage2 Module Experius WysiwygDownloads",
-    "packagist_source": true
+    "packagist_source": "experius/module-wysiwygdownloads"
   },
   "fballiano/magento2-defer-javascripts": {
     "description": "Defer Javascripts module for Magento 2",
@@ -222,7 +222,7 @@
   "fisheye/module-url-rewrite-optimiser": {
     "description": "A Magento module that stops URL rewrites with category paths being generated for products when 'Use Categories Path for Product URLs' setting is disabled in the config.",
     "name": "Fisheye_UrlRewriteOptimiser",
-    "packagist_source": true
+    "packagist_source": "fisheye/module-url-rewrite-optimiser"
   },
   "flagbit/magento2-flysystem": {
     "description": "Integrate Flysystem for local and remote filesystems into Magento2.",
@@ -247,22 +247,22 @@
   "gene/module-braintree": {
     "description": "Implements integration with the Braintree payment system, overwriting the original Magento module, to provide additional features and bug fixes.",
     "name": "Braintree Payments",
-    "packagist_source": true
+    "packagist_source": "gene/module-braintree"
   },
   "goomento/module-page-builder": {
     "description": "A free Magento Page Builder extension that allows you to efficiently set up your website by simply dragging and dropping manipulation",
     "name": "Goomento Page Builder",
-    "packagist_source": true
+    "packagist_source": "goomento/module-page-builder"
   },
   "graycore/magento2-cors": {
     "description": "Enables configurable CORS Headers on GraphQL and REST APIs",
     "name": "Magento 2 CORS",
-    "packagist_source": true
+    "packagist_source": "graycore/magento2-cors"
   },
   "graycore/magento2-graphql-introspection-cache": {
     "description": "This module allows you to use the same mechanism that is used for caching regular GraphQL resolvers, for introspection queries. This helps minimize the number of times Magento is bootstrapped.",
     "name": "Magento 2 GraphQL Introspection Cache",
-    "packagist_source": true
+    "packagist_source": "graycore/magento2-graphql-introspection-cache"
   },
   "hivecommerce/magento2-content-fuzzyfyr": {
     "description": "The Content Fuzzyfyr module for Magento2 replaces real content with dummy content. This is for development purposes to prepare test data that matches GDPR restrictions.",
@@ -272,7 +272,7 @@
   "hyva-themes/module-magento2-admin": {
     "description": "This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast, without usage of UI components.",
     "name": "Hyvä Admin",
-    "packagist_source": true
+    "packagist_source": "hyva-themes/module-magento2-admin"
   },
   "integer-net/magento2-enable-swagger": {
     "description": "Adds the option to re-enable Swagger via configuration. It's disabled in production mode since Magento 2.4.4.",
@@ -297,7 +297,7 @@
   "itonomy/module-admin-activity": {
     "description": "Easily track every admin activity, record login attempts and admin page visits, track field changes and give the ability to revert them.",
     "name": "Magento 2 - Admin Activity by Itonomy",
-    "packagist_source": true
+    "packagist_source": "itonomy/module-admin-activity"
   },
   "jalogut/magento2-deployer-plus": {
     "description": "Tool based on deployer.org to perform zero downtime deployments of Magento 2 projects",
@@ -337,7 +337,7 @@
   "mage/gridjs": {
     "description": "A Magento 2 extension for GridJS and DataTable integration with Magento 2.",
     "name": "Magento 2 Data GridsJS",
-    "packagist_source": true
+    "packagist_source": "mage/gridjs"
   },
   "mage2tv/magento-cache-clean": {
     "description": "A faster drop-in replacement for bin/magento cache:clean with a file watcher",
@@ -367,17 +367,17 @@
   "magenizr/magento2-resetuibookmarks": {
     "description": "Allows admin users to reset their own UI bookmarks such as state of filters, column positions and applied sorting",
     "name": "Magenizr ResetUiBookmarks",
-    "packagist_source": true
+    "packagist_source": "magenizr/magento2-resetuibookmarks"
   },
   "mageos/module-catalog-data-ai": {
     "description": "Generate product descriptions and similar content with the help of AI.",
     "name": "Catalog Data AI",
-    "packagist_source": true
+    "packagist_source": "mageos/module-catalog-data-ai"
   },
   "magepal/link-product": {
     "description": "This extension creates a new product accessory relationship in addition to the default ones.",
     "name": "Custom Product Relation Sample Extension",
-    "packagist_source": true
+    "packagist_source": "magepal/link-product"
   },
   "magepal/magento2-ajax-newsletter-subscribe": {
     "description": "This extension makes it easy to add an AJAX subscription to the Magento newsletter.",
@@ -387,7 +387,7 @@
   "magepal/magento2-cataloglazyload": {
     "description": "Improves page loading time and Google Page Ranking by only loading product images as the user scrolls.",
     "name": "Catalog Images Lazy Load",
-    "packagist_source": true
+    "packagist_source": "magepal/magento2-cataloglazyload"
   },
   "magepal/magento2-checkout-success-misc-script": {
     "description": "This extension makes it easy to add miscellaneous HTML and scripts to the checkout success page.",
@@ -402,12 +402,12 @@
   "magepal/magento2-customeraccountlinksmanager": {
     "description": "Allows you to quickly and easily remove unwanted links from your customer navigation dashboard sidebar in Magento.",
     "name": "Customer Account Links Manager for Magento2",
-    "packagist_source": true
+    "packagist_source": "magepal/magento2-customeraccountlinksmanager"
   },
   "magepal/magento2-customshippingrate": {
     "description": "This extension adds custom flat fee shipping rates to admin order creation or displays a simple list of flat rates to customers.",
     "name": "Custom Flat Fee Shipping Rates",
-    "packagist_source": true
+    "packagist_source": "magepal/magento2-customshippingrate"
   },
   "magepal/magento2-edit-order-email": {
     "description": "This extension allows us to edit the customer email on the order admin page.",
@@ -422,12 +422,12 @@
   "magepal/magento2-gmailsmtpapp": {
     "description": "Configure Magento 2 to send email using custom SMTP server, Gmail, Amazon SES, Office365 and other",
     "name": "Magento 2 SMTP by MagePal",
-    "packagist_source": true
+    "packagist_source": "magepal/magento2-gmailsmtpapp"
   },
   "magepal/magento2-googletagmanager": {
     "description": "The extension provides a vast array of over 60 preconfigure data layer elements to make integrating your Magento store with any other third-party service a breeze using Google Tag Manager.",
     "name": "Google Tag Manager with Advance Data Layer",
-    "packagist_source": true
+    "packagist_source": "magepal/magento2-googletagmanager"
   },
   "magepal/magento2-guest-to-customer": {
     "description": "Quickly and easily convert existing guest checkout customers to registered customers.",
@@ -452,22 +452,22 @@
   "mageplaza/module-cron-schedule": {
     "description": "Helps you to execute tasks with no effort from the Admin Panel.",
     "name": "Magento 2 Cron Schedule extension Free",
-    "packagist_source": true
+    "packagist_source": "mageplaza/module-cron-schedule"
   },
   "mageplaza/module-lazy-loading": {
     "description": "This extension allows speeding up the site load by showing the image only at the demanding time.",
     "name": "Magento 2 Lazy Loading extension",
-    "packagist_source": true
+    "packagist_source": "mageplaza/module-lazy-loading"
   },
   "mageplaza/module-smtp": {
     "description": "This extension allows custom SMTP server configuration to transmit email messages.",
     "name": "Magento 2 SMTP",
-    "packagist_source": true
+    "packagist_source": "mageplaza/module-smtp"
   },
   "magepsycho/magento2-discountlabel": {
     "description": "This extension allows displaying custom discount labels with calculated savings on catalog and cart pages.",
     "name": "Magento 2 Product Discount Label",
-    "packagist_source": true
+    "packagist_source": "magepsycho/magento2-discountlabel"
   },
   "magepsycho/magento2-easy-template-path-hints": {
     "description": "Magento 2 module to enable the template path hints on the fly just by using query strings.",
@@ -477,7 +477,7 @@
   "magepsycho/magento2-seosuite": {
     "description": "This extension optimizes SEO strategies for your e-commerce store.",
     "name": "Magento 2 FREE SEO Suite",
-    "packagist_source": true
+    "packagist_source": "magepsycho/magento2-seosuite"
   },
   "magequest/magento2-module-lite-youtube": {
     "description": "A Magento 2 module that adds performant YouTube embeds with no user experience impact.",
@@ -577,7 +577,7 @@
   "rubic/magento2-module-clean-checkout": {
     "description": "A drop-in replacement for the Magento 2 checkout",
     "name": "Danslo CleanCheckout",
-    "packagist_source": true
+    "packagist_source": "rubic/magento2-module-clean-checkout"
   },
   "run-as-root/magento2-message-queue-retry": {
     "description": "An extension that allows processing the same queue message more than once, utilizing RabbitMQ's dead letter exchange feature.",
@@ -632,7 +632,7 @@
   "swissup/module-breeze": {
     "description": "A Magento 2 extension that replaces Luma's js stack with its own implementation.",
     "name": "Breeze",
-    "packagist_source": true
+    "packagist_source": "swissup/module-breeze"
   },
   "swissup/module-marketplace": {
     "description": "Magento modules and themes CLI/GUI downloader and installer",
