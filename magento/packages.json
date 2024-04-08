@@ -559,6 +559,11 @@
     "name": "MarkShust_Twilio",
     "packagist_source": "markshust/magento2-module-twilio"
   },
+  "olegkoval/magento2-regenerate-url-rewrites": {
+    "description": "Add into Magento 2 a CLI feature which allow to regenerate a Url Rewrites of products and categories",
+    "name": "OpegKoval Regenerate Url Rewrites",
+    "packagist_source": "olegkoval/magento2-regenerate-url-rewrites"
+  },
   "phoenix-media/magento2-mediastoragesync": {
     "description": "An easy way to retrieve files in media from an origin server to a local development environment.",
     "name": "Phoenix Media Storage Sync",
