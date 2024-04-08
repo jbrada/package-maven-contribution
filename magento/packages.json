@@ -561,7 +561,7 @@
   },
   "olegkoval/magento2-regenerate-url-rewrites": {
     "description": "Add into Magento 2 a CLI feature which allow to regenerate a Url Rewrites of products and categories",
-    "name": "OpegKoval Regenerate Url Rewrites",
+    "name": "OlegKoval Regenerate Url Rewrites",
     "packagist_source": "olegkoval/magento2-regenerate-url-rewrites"
   },
   "phoenix-media/magento2-mediastoragesync": {
