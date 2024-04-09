@@ -569,10 +569,10 @@
     "name": "MarkShust_Twilio",
     "packagist_source": "markshust/magento2-module-twilio"
   },
-  "opengento/magento2-hoodoor": {
+  "opengento/module-hoodoor": {
     "description": "This module provides a top-notch security for your customers' accounts by adopting a passwordless approach, effectively removing the vulnerability of weak passwords from your database. This instills a sense of confidence and reliability in your platform among your customers.",
     "name": "Magento 2 Hoodoor Passwordless Authentication",
-    "packagist_source": "opengento/magento2-hoodoor"
+    "packagist_source": "opengento/module-hoodoor"
   },
   "olegkoval/magento2-regenerate-url-rewrites": {
     "description": "Add into Magento 2 a CLI feature which allow to regenerate a Url Rewrites of products and categories",
