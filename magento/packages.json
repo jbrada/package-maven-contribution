@@ -599,6 +599,11 @@
     "name": "Magento 2 Message Queue Retry",
     "packagist_source": "run-as-root/magento2-message-queue-retry"
   },
+  "schrammel-codes/magento2-epc-qr-code": {
+    "description": "To ease payments for customers, merchants can provide an EPC QR code for banktransfer payments. This module adds new configurations to the Banktransfer payment method, which generates an EPC QR code for the customer to scan with their banking app.",
+    "name": "SchrammelCodes_EpcQrCode",
+    "packagist_source": "schrammel-codes/magento2-epc-qr-code"
+  },
   "semaio/magento2-configimportexport": {
     "description": "This extension provides CLI commands for Magento 2 to import/export system configuration data.",
     "name": "ConfigImportExport",
