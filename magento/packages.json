@@ -279,6 +279,11 @@
     "name": "Hyvä Admin",
     "packagist_source": "hyva-themes/module-magento2-admin"
   },
+  "imi/magento2-friendly-captcha": {
+    "description": "Friendly Captcha integration for Magento2",
+    "name": "Friendly Captcha integration for Magento2",
+    "packagist_source": "imi/magento2-friendly-captcha"
+  },  
   "integer-net/magento2-enable-swagger": {
     "description": "Adds the option to re-enable Swagger via configuration. It's disabled in production mode since Magento 2.4.4.",
     "name": "IntegerNet_EnableSwagger Magento Module",
