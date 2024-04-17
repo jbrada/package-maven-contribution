@@ -74,6 +74,41 @@
     "name": "CustomGento_Cookiebot",
     "packagist_source": "customgento/module-cookiebot-m2"
   },
+  "customgento/module-koality-m2": {
+    "description": "Koality.io Magento 2 Plugin enables ongoing monitoring of business metrics within a Magento 2 shop.",
+    "name": "Koality_MagentoPlugin",
+    "packagist_source": "customgento/module-koality-m2"
+  },
+  "customgento/module-admin-payment-m2": {
+    "description": "Admin Payment for Magento 2 introduces an internal payment method within the admin area.",
+    "name": "CustomGento_AdminPayment",
+    "packagist_source": "customgento/module-admin-payment-m2"
+  },
+  "customgento/module-invoice-m2": {
+    "description": "This Magento 2 module extends the default purchase order payment method by a customer group and admin filter.",
+    "name": "CustomGento_Invoice",
+    "packagist_source": "customgento/module-invoice-m2"
+  },
+  "customgento/module-default-store-code-remover-m2": {
+    "description": "This Magento 2 module hides the store code in the default store from the URL.",
+    "name": "CustomGento_DefaultStoreCodeRemover",
+    "packagist_source": "customgento/module-default-store-code-remover-m2"
+  },
+  "customgento/module-youtube-no-cookie-m2": {
+    "description": "YouTube NoCookie for Magento 2 makes sure that all YouTube product videos are always inserted via the cookie-free domain youtube-nocookie.com.",
+    "name": "CustomGento_YouTubeNoCookie",
+    "packagist_source": "customgento/module-youtube-no-cookie-m2"
+  },
+  "customgento/module-remove-product-comparison-m2": {
+    "description": "Remove Product Comparison for Magento 2 make sure that the product comparison feature is completely removed from Magento.",
+    "name": "CustomGento_RemoveProductComparison",
+    "packagist_source": "customgento/module-remove-product-comparison-m2"
+  },
+  "customgento/module-remove-viewed-products-m2": {
+    "description": "Remove Viewed Products for Magento 2 removes the recently viewed products feature completely from Magento.",
+    "name": "CustomGento_RemoveViewedProducts",
+    "packagist_source": "customgento/module-remove-viewed-products-m2"
+  },
   "danslo/magento2-module-automatic-persisted-queries": {
     "description": "Apollo-compatible automatic persisted queries, to improve GraphQL network performance.",
     "name": "Automatic Persisted Queries",
@@ -283,7 +318,7 @@
     "description": "Friendly Captcha integration for Magento2",
     "name": "Friendly Captcha integration for Magento2",
     "packagist_source": "imi/magento2-friendly-captcha"
-  },  
+  },
   "integer-net/magento2-enable-swagger": {
     "description": "Adds the option to re-enable Swagger via configuration. It's disabled in production mode since Magento 2.4.4.",
     "name": "IntegerNet_EnableSwagger Magento Module",
