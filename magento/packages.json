@@ -149,11 +149,6 @@
     "name": "elgentos/magento2-algolia-performance",
     "packagist_source": "elgentos/magento2-algolia-performance"
   },
-  "elgentos/magento2-composer-quality-patches": {
-    "description": "This extension adds a command to generate a composer.quality-patches.json file to use with the vaimo/composer-patches package.",
-    "name": "Magento 2 Composer Quality Patches",
-    "packagist_source": "elgentos/magento2-composer-quality-patches"
-  },
   "elgentos/magento2-imgix": {
     "description": "An extension to automatically processes product images with Imgix service.",
     "name": "Magento 2 extension for Imgix",
