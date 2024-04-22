@@ -689,6 +689,11 @@
     "name": "Breeze",
     "packagist_source": "swissup/module-breeze"
   },
+  "swissup/module-ignition": {
+    "description": "A beautiful error page and error tracking service for Magento powered by spatie/ignition.",
+    "name": "Ignition for Magento2",
+    "packagist_source": "swissup/module-ignition"
+  },
   "swissup/module-marketplace": {
     "description": "Magento modules and themes CLI/GUI downloader and installer",
     "name": "Marketplace",
