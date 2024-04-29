@@ -34,6 +34,11 @@
     "name": "Url data integrity checker module for Magento 2",
     "packagist_source": "baldwin/magento2-module-url-data-integrity-checker"
   },
+  "belsmol/module-videocall": {
+    "description": "Magento 2 Video Call module allows you to make video call between a client and a support manager without any additional 3d-party applications. Everything that you need is your Magento shop installation and an available camera with a microphone.",
+    "name": "Magento 2 Video Call Module",
+    "packagist_source": "belsmol/module-videocall"
+  },
   "bitexpert/magento2-force-customer-login": {
     "description": "Magento 2 module that forces customer login to see website pages.",
     "name": "BitExpert_ForceCustomerLogin",
