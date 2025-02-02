@@ -284,6 +284,11 @@
     "name": "Braintree Payments",
     "packagist_source": "gene/module-braintree"
   },
+  "ghoster/module-outofstockatlast": {
+    "description": "Sort out-of-stock products last in Magento 2 product listings. This module ensures in-stock items appear first, improving user experience and conversion rates. Compatible with Elasticsearch, OpenSearch and Smile ElasticSuite.",
+    "name": "Sort Out-of-Stock Products Last in Product Listings",
+    "packagist_source": "ghoster/module-outofstockatlast"
+  },
   "goomento/module-page-builder": {
     "description": "A free Magento Page Builder extension that allows you to efficiently set up your website by simply dragging and dropping manipulation",
     "name": "Goomento Page Builder",
