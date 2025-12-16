@@ -634,6 +634,11 @@
     "name": "System Configuration Toolkit",
     "packagist_source": "pragmatic-modules/magento2-module-system-configuration-toolkit"
   },
+  "pushonltd/module-sales-rule-extended-groups": {
+    "description": "A Magento 2 module that enhances Cart Price Rules by enabling application to all customer groups, including those created after the rule itself.",
+    "name": "Sales Rule Extended Groups",
+    "packagist_source": "pushonltd/module-sales-rule-extended-groups"
+  },
   "rubic/magento2-module-clean-checkout": {
     "description": "A drop-in replacement for the Magento 2 checkout",
     "name": "Danslo CleanCheckout",
