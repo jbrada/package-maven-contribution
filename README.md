@@ -1,16 +1,12 @@
 # ⚠️ This Repository Has Been Retired
 
-  **Thank you to all contributors!** This repository is no longer accepting new pull requests.
+This repository is no longer accepting new pull requests.
 
-  ## New Way to Propose Modules
+## New Way to Propose Modules
 
-  We've introduced a simpler way to submit modules for listing on PackageMaven. Instead of creating pull requests, you can now use our submission form:
+We've introduced a simpler way to submit modules for listing on PackageMaven. Instead of creating pull requests, you can now use our submission form:
 
-  👉 **[Submit a Module](https://package-maven.com/submit)**
-
-## Thank You
-
-A heartfelt thanks to everyone who contributed modules and helped build this catalog. Your contributions helped shape PackageMaven into what it is today.
+👉 **[Submit a Module](https://package-maven.com/submit)**
 
 ---
 
