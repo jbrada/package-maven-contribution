@@ -1,3 +1,23 @@
+# ⚠️ This Repository Has Been Retired
+
+  **Thank you to all contributors!** This repository is no longer accepting new pull requests.
+
+  ## New Way to Propose Modules
+
+  We've introduced a simpler way to submit modules for listing on PackageMaven. Instead of creating pull requests, you can now use our submission form:
+
+  👉 **[Submit a Module](https://package-maven.com/submit)**
+
+## Thank You
+
+A heartfelt thanks to everyone who contributed modules and helped build this catalog. Your contributions helped shape PackageMaven into what it is today.
+
+---
+
+## Archive Notice
+
+The content below is preserved for historical reference only.
+
 # Welcome to PackageMaven
 
 The goal is simple: to give Magento users an easy way to find modules that can enhance their e-commerce platforms. Beyond just listing these modules, we also run basic tests to check if they can be installed without issues.
